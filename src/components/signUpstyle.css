@@ -1,0 +1,13 @@
+table, th, td {
+    background-color: rgb(190, 216, 240);
+}
+input{
+    width:96%;
+}
+select{
+    width:98%;
+}
+table{
+    margin-top: 20px;
+    margin-left: 20px;
+}
